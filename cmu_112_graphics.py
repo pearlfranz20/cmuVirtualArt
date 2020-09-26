@@ -1,3 +1,7 @@
+''' Citing code from CMU 15-112 Graphics
+    Visit the CMU 15-112 Website here: 
+    https://www.cs.cmu.edu/~112/ '''
+
 # cmu_112_graphics.py
 # version 0.8.6
 
